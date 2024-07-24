@@ -1,0 +1,25 @@
+{
+    "name": "valid-pipe",
+    "version": "1.0.0",
+    "description": "정규 표현식을 사용하여 데이터를 검증하는 간단하고 유연한 JavaScript 라이브러리입니다. 이 라이브러리는 체이닝, 사용자 정의 에러 핸들링, 그리고 일반적인 검증 요구 사항을 위한 미리 정의된 정규 표현식 상수를 지원합니다.",
+    "main": "valid-pipe.js",
+    "module": "valid-pipe.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "validation",
+        "regex",
+        "checker"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/devkgm/valid-pipe.git"
+    },
+    "author": "devkgm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/devkgm/valid-pipe/issues"
+    },
+    "homepage": "https://github.com/devkgm/valid-pipe#readme"
+}
